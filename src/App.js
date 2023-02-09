@@ -4,13 +4,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <h1>Hello World</h1>
+      <img src='/gambar.png' style={{width: '500px', borderRadius: '15px', margin: 'auto'}} alt='gambar' /> 
+      <br />
         <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            wellcome to hello world 
-          </p>
-          <h1>belajar react</h1>
-      </header>
+        <h2> ini project react pertama saya </h2>
     </div>
   );
 }
