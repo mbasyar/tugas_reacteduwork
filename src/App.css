@@ -1,5 +1,5 @@
 .container {
-  background-color: #70abeb;
+  background-color: #fafafa;
   margin-top: 100px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -10,7 +10,7 @@
     width: 390px;
     padding: 1.9rem 1.2rem;
     text-align: center;
-    background: #1e85f3;
+    background: #70abeb;
     margin: auto;
     height: 400px;
     border: 2px solid rgb(255, 255, 255);
